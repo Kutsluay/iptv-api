@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-02 18:19:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-03 00:21:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -253,8 +253,8 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8$订�
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802$订阅源
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718$订阅源
-湖南卫视,http://zqh2333.top:2222/rtp/239.94.0.116:5140$订阅源
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358$订阅源
+湖南卫视,http://zqh2333.top:2222/rtp/239.94.0.116:5140$订阅源
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058$订阅源
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws$订阅源
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD$订阅源
@@ -490,8 +490,8 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8$订�
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=35df06ac83a8fe0b0d98f96b8dbf5821d2a57fbd279c10148f5eb543353c48d828c15e639a63919e023774c69fac3a6f5a2bbfd1ee773d77c0dc154b9acd0c77e84c99627dd15f852e56ab3281$订阅源
-四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388$订阅源
 四川卫视,http://171.83.103.119:9999/rtp/239.69.1.28:9808$订阅源
+四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388$订阅源
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$订阅源
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws$订阅源
 四川卫视,http://j.x.bkpcp.top/jx/SICHD$订阅源
@@ -703,9 +703,9 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8$订阅源
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8$订阅源
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8$订阅源
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8$订阅源
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv$订阅源
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
@@ -744,14 +744,14 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv$订阅源
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8$订阅源
 三立新闻,http://pullpackage.alivecdn.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv$订阅源
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe$订阅源
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8$订阅源
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$订阅源
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8$订阅源
