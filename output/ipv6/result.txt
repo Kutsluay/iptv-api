@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-03 18:18:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-04 00:20:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1018,6 +1018,7 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=408252ae4ee84d4533a
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq$订阅源
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8$订阅源
 风云足球,https://cc06.tv12.xyz/41.m3u8$订阅源
+风云足球,https://ysp.koyeb.app/ysp?token=_mWRu8-sKwlty3lLO0TEpfvhZqg33e3p&cnlid=2026966203&livepid=600099636&defn=fhd$订阅源
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq$订阅源
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq$订阅源
 魅力足球,http://goo.bkpcp.top/mg/mlzq$订阅源
